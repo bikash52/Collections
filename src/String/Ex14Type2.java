@@ -1,3 +1,5 @@
+package String;
+
 public class Ex14Type2 {
     //Anything convert into string
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package String;
+
 public class Ex12charAt {
     public static void main(String[] args) {
         String z="aabnjaaannasbaoaualaala";

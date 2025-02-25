@@ -1,3 +1,5 @@
+package String;
+
 public class Ex18Replace {
     public static void main(String[] args) {
         //Replace a particular String

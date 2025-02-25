@@ -1,3 +1,5 @@
+package String;
+
 public class Ex20 {
     public static void main(String[] args) {
         String str = "System is running";

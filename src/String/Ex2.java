@@ -1,3 +1,5 @@
+package String;
+
 public class Ex2 {
     public static void main(String[] args) {
         String x=new String("Bikash");

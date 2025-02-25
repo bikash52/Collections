@@ -1,3 +1,5 @@
+package String;
+
 public class Ex17Join {
     public static void main(String[] args) {
         //Join the Strings

@@ -1,3 +1,5 @@
+package String;
+
 public class Ex11Trim {
     public static void main(String[] args) {
         String x="                aa  bb c";
